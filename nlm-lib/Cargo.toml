@@ -1,0 +1,7 @@
+[package]
+name = "nlm-lib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nlm-impl = {path = "../nlm-impl"}
